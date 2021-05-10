@@ -12,7 +12,13 @@ This little tool recursively scans the .eml files in a directory and extracts fr
 
 ## Installation
 
-- Clone or download the package to a location where your PHP server can access it
+Install with Composer
+
+```cmd
+composer require migliori/email-address-extractor
+```
+
+or clone or download the package to a location where your PHP server can access it
 
 ## Usage
 

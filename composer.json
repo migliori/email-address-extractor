@@ -1,0 +1,22 @@
+{
+    "name": "migli/email-address-extractor",
+    "description": "Extract the email address from all the .eml files inside a given folder",
+    "keywords": [
+        "email",
+        ".eml",
+        "extract"
+    ],
+    "homepage": "https://github.com/migliori/email-address-extractor",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Gilles Migliori",
+            "email": "gilles.migliori@gmail.com",
+            "homepage": "https://www.miglisoft.com/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
