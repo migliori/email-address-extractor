@@ -54,4 +54,4 @@ You can check several options at the same time.
 
 ## License
 
-This project is under [GNU GENERAL PUBLIC](LICENSE.md) license
+This project is under [GNU GENERAL PUBLIC](LICENSE) license

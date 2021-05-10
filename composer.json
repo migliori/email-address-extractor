@@ -7,7 +7,7 @@
         "extract"
     ],
     "homepage": "https://github.com/migliori/email-address-extractor",
-    "license": "GNU",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Gilles Migliori",
